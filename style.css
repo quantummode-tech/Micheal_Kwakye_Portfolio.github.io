@@ -733,6 +733,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    
 }
 
 .service .service-item {
@@ -742,6 +743,7 @@ a:focus {
     align-items: center;
     box-shadow: inset 0 0 0 0 transparent;
     transition: ease-out 0.5s;
+    color:#ffffff;
 }
 
 .service .service-item:hover {
@@ -815,6 +817,7 @@ a:focus {
 .portfolio {
     position: relative;
     padding: 45px 0 15px 0;
+    
 }
 
 .portfolio #portfolio-filter {
@@ -852,6 +855,7 @@ a:focus {
 
 .portfolio .portfolio-item {
     position: relative;
+    color:#ffffff;
 }
 
 .portfolio .portfolio-wrap {
@@ -927,12 +931,12 @@ a:focus {
     margin:30px 10px;
 }
 .forex-contrib a, .code-contrib a{
-  text-align: right;
+  text-align:center;
   color:teal;
   
 }
 
-
+.contrib p{color:#ffffff;}
 
 /*******************************/
 /********* Contact CSS *********/
@@ -1029,6 +1033,7 @@ a:focus {
     margin-right:20px;
     background: #000;
     padding: 20px;
+    
 }
 
 .footer .container-fluid {
@@ -1039,6 +1044,7 @@ a:focus {
     position: relative;
     width: 100%;
     text-align: center;
+    color:#ffffff;
 }
 
 .footer .footer-info h2 {
